@@ -86,7 +86,7 @@ main .nav {
   main .nav__sectLeft {
     display: flex; }
     main .nav__sectLeft img {
-      height: 100%;
+      width: 100%;
       margin-right: 32px; }
   main .nav__nav {
     list-style: none;
